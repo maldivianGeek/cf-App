@@ -1,0 +1,97 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Nutritional Facts",
+      "description": "Nutrition is highly important for growth.",
+      "icon": "cloud",
+      "items": [
+        {
+          "id": 1,
+          "title": "Nutritions",
+          "description": "The Guardian is a British national daily newspaper. Founded in 1821, it was known as The Manchester Guardian until 1959.",
+          "url": "https://nutritionfacts.org/feed/"
+        },
+        {
+          "id": 2,
+          "title": "Food Chain",
+          "description": "The Huffington Post is an American online news aggregator and blog.",
+          "url": "http://www.huffingtonpost.com/feeds/news.xml"
+        },
+        {
+          "id": 3,
+          "title": "6 ways to lower get rid of dizziness",
+          "description": "BBC News is an operational business division[1] of the British Broadcasting Corporation (BBC) responsible for the gathering and broadcasting of news and current affairs.",
+          "url": "http://feeds.bbci.co.uk/news/rss.xml"
+        },
+        {
+          "id": 4,
+          "title": "Sugar and the difference",
+          "description": "Apple Inc. is an American multinational corporation.",
+          "url": "https://www.apple.com/main/rss/hotnews/hotnews.rss"
+        }
+        
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Curbs",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "basketball",
+      "items": [
+        {
+          "id": 1,
+          "title": "Curbs facts",
+          "description": "This is an RSS feed from the BBC Sport - Sport website.",
+          "url": "http://feeds.bbci.co.uk/sport/0/rss.xml?edition=uk"
+        },
+        {
+          "id": 2,
+          "title": "Foods that contain curbs",
+          "description": "This is an RSS feed from the BBC Sport - Football website.",
+          "url": "http://feeds.bbci.co.uk/sport/0/football/rss.xml?edition=uk"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Protiens",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "icon": "card",
+      "items": [
+        {
+          "id": 1,
+          "title": "Protiens",
+          "description": "The Economist is an English-language weekly newspaper owned by The Economist Newspaper Ltd and edited in offices in London.",
+          "url": "http://www.economist.com/topics/economics/index.xml"
+        },
+        {
+          "id": 2,
+          "title": "The Economic Times",
+          "description": "The Economic Times: Latest business, finance, markets, stocks, company news from India.",
+          "url": "http://economictimes.indiatimes.com/rssfeedsdefault.cms"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Minerals",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "icon": "videocam",
+      "items": [
+        {
+          "id": 1,
+          "title": "Mineral intakes",
+          "description": "TED (Technology, Entertainment, Design) is a global set of conferences owned by the private non-profit Sapling Foundation, under the slogan: Ideas Worth Spreading.",
+          "url": "http://feeds.feedburner.com/tedtalks_video"
+        },
+        {
+          "id": 1,
+          "title": "Minerals facts",
+          "description": "Channel 9 keeps you up to date with the latest news and behind the scenes info from Microsoft that developers love to keep up with.",
+          "url": "http://channel9.msdn.com/Feeds/RSS/ipod"
+        }
+      ]
+    }
+  ]
+}
