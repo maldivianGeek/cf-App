@@ -14,21 +14,15 @@
         },
         {
           "id": 2,
-          "title": "Food Chain",
-          "description": "The Huffington Post is an American online news aggregator and blog.",
-          "url": "http://www.huffingtonpost.com/feeds/news.xml"
+          "title": "6 ways to lower get rid of dizziness",
+          "description": "There are few kitchen tools more feared, more maligned, and more misunderstood than the microwave. Here's why you shouldn't be intimidated",
+          "url": "http://www.bodyandsoul.com.au/diet/rss"
         },
         {
           "id": 3,
-          "title": "6 ways to lower get rid of dizziness",
-          "description": "BBC News is an operational business division[1] of the British Broadcasting Corporation (BBC) responsible for the gathering and broadcasting of news and current affairs.",
-          "url": "http://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "id": 4,
-          "title": "Sugar and the difference",
-          "description": "Apple Inc. is an American multinational corporation.",
-          "url": "https://www.apple.com/main/rss/hotnews/hotnews.rss"
+          "title": "Serious Eats: The Food Lab",
+          "description": "A poached egg and walnut vinaigrette round out this steamed asparagus.",
+          "url": "http://www.bodyandsoul.com.au/nutrition/rss"
         }
         
       ]
@@ -36,53 +30,53 @@
     {
       "id": 2,
       "title": "Curbs",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "description": "The nonribosomal peptide synthetases are modular enzymes that catalyze synthesis of important peptide products from a variety of standard",
       "icon": "basketball",
       "items": [
         {
           "id": 1,
           "title": "Curbs facts",
-          "description": "This is an RSS feed from the BBC Sport - Sport website.",
-          "url": "http://feeds.bbci.co.uk/sport/0/rss.xml?edition=uk"
+          "description": "Simulated Paediatric Resuscitation Team Training (SPRinT) is jointly directed by Dr Margarita Burmester and Dr Meredith Allen at Royal Brompton Hospital",
+          "url": "http://www.bodyandsoul.com.au/health/rss"
         },
         {
           "id": 2,
           "title": "Foods that contain curbs",
-          "description": "This is an RSS feed from the BBC Sport - Football website.",
-          "url": "http://feeds.bbci.co.uk/sport/0/football/rss.xml?edition=uk"
+          "description": "Simulated Paediatric Resuscitation Team Training",
+          "url": "http://www.womenshealthandfitness.com.au/component/obrss/diet-nutrition"
         }
       ]
     },
     {
       "id": 3,
       "title": "Protiens",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "description": "Simulated Paediatric Resuscitation Team Training",
       "icon": "card",
       "items": [
         {
           "id": 1,
           "title": "Protiens",
           "description": "The Economist is an English-language weekly newspaper owned by The Economist Newspaper Ltd and edited in offices in London.",
-          "url": "http://www.economist.com/topics/economics/index.xml"
+          "url": "https://www.nature.com/subjects/protein-delivery.rss"
         },
         {
           "id": 2,
           "title": "The Economic Times",
-          "description": "The Economic Times: Latest business, finance, markets, stocks, company news from India.",
-          "url": "http://economictimes.indiatimes.com/rssfeedsdefault.cms"
+          "description": "Vaccination is one of the cheapest health-care interventions that have saved more lives than any other drugs or therapies. ",
+          "url": "http://www.bodyandsoul.com.au/mind-body/rss"
         }
       ]
     },
     {
       "id": 4,
       "title": "Minerals",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "description": "A mineral is a naturally occurring chemical compound, usually of crystalline form and abiogenic in origin ",
       "icon": "videocam",
       "items": [
         {
           "id": 1,
           "title": "Mineral intakes",
-          "description": "TED (Technology, Entertainment, Design) is a global set of conferences owned by the private non-profit Sapling Foundation, under the slogan: Ideas Worth Spreading.",
+          "description": "A mineral is a naturally occurring chemical compound, usually of crystalline form and abiogenic in origin",
           "url": "http://feeds.feedburner.com/tedtalks_video"
         },
         {

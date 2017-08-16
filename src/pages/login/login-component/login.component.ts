@@ -21,7 +21,7 @@ export class LoginComponent {
     let message = 'Succesful Login';
     let toast = this.toastController.create({
         message: message,
-        duration: 3000,
+        duration: 2000,
         position: 'bottom'
       });
     toast.present();

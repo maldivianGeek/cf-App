@@ -22,11 +22,11 @@ export class FoodintakeComponent {
       this.storage.get('foodintake').then((val) => {
         if(val != null){
           let foodintake = JSON.parse(val);
-          this.calories = foodintake.calories;
-          this.date = foodintake.date;
+          this.calories = foodintake.calories, Validators.required;
+          this.date = foodintake.date, Validators.required;
         } else {
-          this.calories = '';
-          this.date = '';
+          this.calories = '', Validators.required;
+          this.date = '', Validators.required;
         }
       });
   }

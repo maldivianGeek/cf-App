@@ -12,6 +12,7 @@ import { FoodintakeProvider } from "../../../providers/foodintake/foodintake";
 export class ChartsComponent {
 
 	@ViewChild('barCanvas') barCanvas;
+	@ViewChild('pieCanvas') pieCanvas;
 
 
 	foodintake:{
@@ -19,6 +20,7 @@ export class ChartsComponent {
     date:string
   }
 	barChart: any;
+	pieChart: any;
 
 	constructor(
 		public navCtrl: NavController,
@@ -46,6 +48,7 @@ export class ChartsComponent {
 
 	ionViewDidLoad() {
 		this.barChart = this.getBarChart();
+		this.pieChart = this.getPieChart();
 		
 	}
 
@@ -60,10 +63,10 @@ export class ChartsComponent {
 
 	getBarChart() {
 		let data:any  = {
-		  labels: ["12/08/17","12/08/17","12/08/17","12/08/17","12/08/17","12/08/17"],
+		  labels: ["11/08/17","12/08/17","13/08/17","14/08/17","15/08/17","16/08/17"],
 		  datasets: [{
 		    label: 'Calories',
-		    data: ["1","2","3","4","5","6"],
+		    data: ["100","157","256","178","156","124"],
 		    backgroundColor: [
 		      'rgba(255, 99, 132, 0.2)',
 		      'rgba(54, 162, 235, 0.2)',
@@ -97,6 +100,18 @@ export class ChartsComponent {
 		return this.getChart(this.barCanvas.nativeElement, "bar", data, options);
 	}
 
+	getPieChart() {
+		let data = {
+		  labels: ["Breakfast", "Lunch", "Dinner"],
+		  datasets: [
+		    {
+		      data: [300, 50, 100],
+		      backgroundColor: ["#FF6384", "#36A2EB", "#FFCE56"],
+		      hoverBackgroundColor: ["#FF6384", "#36A2EB", "#FFCE56"]
+		    }]
+		};
 
+		return this.getChart(this.pieCanvas.nativeElement, "pie", data);
+	}
 
 }
